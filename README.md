@@ -80,11 +80,14 @@ Higher temps inherit the damages from the lower temps
 These are just a sample of the possible effects, these will be configurable and implement randomness and probabilities.
 
 
+
+
 ## Related Science of Climate Change
 ### Atmosphere warms with more CO2 because of Greenhouse Effect
 ![Greenhouse Effect](https://i.imgur.com/XsWJGz9.png)
 ### Atmospheric Energy Budget
 + ![Earth's Global Energy Budget](https://i.imgur.com/aHdJxXc.png)
+
 
 Source: RIT "Climate Change: Science, Technology, and Policy" lecture slides
 ### Impact on Oceans
